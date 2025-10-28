@@ -1,7 +1,6 @@
 let taskInput = document.querySelector("#taskinput");
 let addtaskbtn = document.querySelector("#addtaskbtn");
 let tasksUl = document.querySelector("#tasksul"); 
-document.querySelector("#clearcompletedbtn");
 let delbtn = document.querySelector("#delbtn");
 
 
